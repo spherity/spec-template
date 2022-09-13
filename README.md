@@ -30,7 +30,7 @@ Some examples are already included in ```index.html```.
 
 ## 📖 Github Pages
 
-When you update the ```master``` branch of your proposal repository, the resulting content will automatically published to a github page that you can share. Using the default configuration your page should be accessible at:
+When you update the ```main``` branch of your proposal repository, the resulting content will automatically published to a github page that you can share. Using the default configuration your page should be accessible at:
 
 ```https://<user>.github.io/<repository>```
 
