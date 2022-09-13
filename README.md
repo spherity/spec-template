@@ -1,12 +1,12 @@
-# A template for OCI proposals
+# A template for Spherity proposals
 
-This repository establishes a base for OCI proposals and drafts using [respec](https://respec.org/docs/) as a foundation. 
+This repository establishes a base for Spherity proposals and drafts using [respec](https://respec.org/docs/) as a foundation. 
 
 This repo includes a number of defaults for the respec template. See ```respecConfig``` for the exact configuration. 
 ## 🔋 Getting started
 
 1. Click on 'Use this template' in the github interface
-2. Create the new templated repository in your user namespace or OCI namespace
+2. Create the new templated repository in your user namespace or Spherity namespace
 3. Open ```index.html``` and replace the following variables with your content
    1. Spec Information: 
       - ```SPEC_TITLE```
